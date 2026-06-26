@@ -1,4 +1,4 @@
-![Voiding of World mod-pack](https://cdn.discordapp.com/attachments/1311187054721241130/1517910215410974961/minecraft_title_110.png?ex=6a37ff8c&is=6a36ae0c&hm=cd1bf32ecdc2dfb829df19dd084568a46ac6a9a2093a62bf3f251089f25da5be&)
+![Voiding of World mod-pack](https://cdn.modrinth.com/data/cached_images/55de20467e874ec4a5e537afaa44ab6572445934_0.webp)
 
 Voiding of World Mod-Pack Copyright
 -
