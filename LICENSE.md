@@ -30,7 +30,7 @@ Contact
 -
 
 If you have any ideas for VOiding of World mod-pack, or have any questions about mod-pack 
-please contact with us through [Github issues](https://github.com/BarkFur/voiding-of-world-license/issues) or [DM Twitter](https://x.com/SeroPaw)
+please contact with us through [Github issues](https://github.com/BarkFur/voiding-of-world-license/issues) or gmail voidingofworld@gmail.com
 
 
 Credit to the creator (BarkFur)
